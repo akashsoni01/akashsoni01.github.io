@@ -29,3 +29,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+	Reference : https://towardsdatascience.com/how-to-create-a-compelling-github-portfolio-a229e7472a92
